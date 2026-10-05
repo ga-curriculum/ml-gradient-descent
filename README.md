@@ -21,8 +21,8 @@ Understand and implement gradient descent, and recognize common pitfalls such as
 
 | Topic | Skills |
 | ------ | ------ |
-| [Slides](./01-slides/) | - An overview of gradient descent<br />- Optimizing loss functions with gradient descent<br />- How to choose 𝜶 |
-| [Gradient Descent](./02-gradient-descent/) | - Gradient Descent Code-Along |
+| [Slides](https://github.com/ga-curriculum/ml-gradient-descent/blob/main/01-slides/ML-Gradient-Descent.pdf){:target="_blank"} | - An overview of gradient descent<br />- Optimizing loss functions with gradient descent<br />- How to choose 𝜶 |
+| [Gradient Descent](https://github.com/ga-curriculum/ml-gradient-descent/tree/main/02-gradient-descent){:target="_blank"} | - Gradient Descent Code-Along |
 
 
 ## Prerequisites
